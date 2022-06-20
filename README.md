@@ -2,14 +2,17 @@
 个人使用机场
 机场名称|类别|特点|资费|官网
 ------------|------|------|------|-
-少数派|SS/V2ray|IEPL专线|29/元月200G/月|shaoshupai.me
+少数派|SS/V2ray|IEPL专线|29元/月200G/月|shaoshupai.me
 白月光|空|空|空|
 infinitetitan|空|空|空|
 猫熊|空|空|空|
 texon菜市场|空|空|空|
 Skicat溜冰猫|空|空|空|
-梦迪|空|空|空|
+MDSS梦迪|空|空|空|
 
+# 频道群组推荐
+* 前女友们用过的机场频道：https://t.me/gebaopiCloud
+* 前女友们新开的茶室群组：https://t.me/EXAIRPORTGROUP
 
 # 大佬链接
 * 毒药推荐：https://www.duyaoss.com/category/default/
