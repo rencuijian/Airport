@@ -8,7 +8,7 @@ infinitetitan|空|空|空|
 猫熊|空|空|空|
 texon菜市场|空|空|空|
 Skicat溜冰猫|空|空|空|
-MDSS梦迪|空|空|空|
+ByWave|空|空|空|
 
 # 频道群组推荐
 * 前女友们用过的机场频道：https://t.me/gebaopiCloud
