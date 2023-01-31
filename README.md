@@ -28,6 +28,8 @@ ByWave|空|空|空|
 * 墨少离：https://www.msl.la/archives/3/
 * VPN信息网：https://vpnxxw.com/
 * Askahh机场测速：http://www.askahh.com/
-
+* 机场推荐：https://www.evernote.com/shard/s417/client/snv?noteGuid=7bf69b0c-2916-4038-b034-20ead5f0241f&noteKey=8ddb2c9bfd5ff4de4c40e04a1eb54b0f&sn=https://www.evernote.com/shard/s417/sh/7bf69b0c-2916-4038-b034-20ead5f0241f/8ddb2c9bfd5ff4de4c40e04a1eb54b0f&title=%E8%87%AA%E7%94%A8SS%2FSSR%E6%9C%BA%E5%9C%BA%E4%BD%93%E9%AA%8C%E5%8F%8A%E5%90%90%E6%A7%BD
+* 机场推荐：https://jichangtuijian.com/
+* 机场和电报群推荐：https://v2ray.ssjichang.com/2022/01/telegram.html?m=1
 # 机场搭建教程
 * Alvin9999的github推荐：https://github.com/Alvin9999/new-pac
