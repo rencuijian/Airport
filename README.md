@@ -21,7 +21,7 @@ https://sites.google.com/view/honven/首页
 * honven机场推荐与评测备份
 https://jichangtuijian.com/
 * * *
-*
+* SSRV2ray推荐：https://ssrv2ray.xyz/
 * * *
 *
 * * *
@@ -41,7 +41,7 @@ https://t.me/Squirtlegroup
 
 * 
 * SS机场-点击很多博文：https://v2ray.ssjichang.com/?m=1
-* AS/V2ray推荐：https://ssrv2ray.xyz/
+
 * 万事屋推荐：https://merlinblog.xyz/seetheworld.html
 * 
 * 墨少离：https://www.msl.la/archives/3/
