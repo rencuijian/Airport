@@ -9,7 +9,7 @@
 * 
 * 
 * 
-# 频道群组推荐
+# 测速频道群组
 * 前女友们用过的机场频道：https://t.me/gebaopiCloud
 * 前女友们新开的茶室群组：https://t.me/EXAIRPORTGROUP
 
