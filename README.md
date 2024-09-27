@@ -3,6 +3,8 @@
 https://duangks.com/
 * 性价比TG频道：
 https://t.me/duang_speedtest
+* 性价比TG群组：
+https://t.me/speedtest_duang
 * * *
 * 毒药机场测速：https://www.duyaoss.com/
 * * *
