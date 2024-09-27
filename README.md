@@ -6,6 +6,8 @@ https://t.me/duang_speedtest
 * 性价比TG群组：
 https://t.me/speedtest_duang
 * * *
+* 404Askahh机场测速：https://www.askahh.com/
+* * *
 * 毒药机场测速：https://www.duyaoss.com/
 * * *
 * 毒奶机场测速和其他相关教程：
@@ -40,13 +42,8 @@ https://t.me/Squirtlegroup
 * 
 
 * 
-* SS机场-点击很多博文：https://v2ray.ssjichang.com/?m=1
-
-* 万事屋推荐：https://merlinblog.xyz/seetheworld.html
 * 
-* 墨少离：https://www.msl.la/archives/3/
-* VPN信息网：https://vpnxxw.com/
-* Askahh机场测速：http://www.askahh.com/
+* 
 * 机场推荐：https://www.evernote.com/shard/s417/client/snv?noteGuid=7bf69b0c-2916-4038-b034-20ead5f0241f&noteKey=8ddb2c9bfd5ff4de4c40e04a1eb54b0f&sn=https://www.evernote.com/shard/s417/sh/7bf69b0c-2916-4038-b034-20ead5f0241f/8ddb2c9bfd5ff4de4c40e04a1eb54b0f&title=%E8%87%AA%E7%94%A8SS%2FSSR%E6%9C%BA%E5%9C%BA%E4%BD%93%E9%AA%8C%E5%8F%8A%E5%90%90%E6%A7%BD
 * 机场推荐：https://jichangtuijian.com/
 * 机场和电报群推荐：https://v2ray.ssjichang.com/2022/01/telegram.html?m=1
