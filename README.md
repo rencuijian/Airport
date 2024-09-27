@@ -1,4 +1,4 @@
-# 机场博主推荐
+# 机场测速博主推荐
 * 性价比机场测速duangks：
 https://duangks.com/
 * 性价比TG频道：
@@ -13,10 +13,16 @@ https://limbopro.com/
 * 
 * 
 * 
-# 测速频道群组
+# 机场测速频道和群组
 * 前女友们用过的机场频道：https://t.me/gebaopiCloud
 * 前女友们新开的茶室群组：https://t.me/EXAIRPORTGROUP
-
+* 杰尼龟和他的订阅们频道：
+https://t.me/Squirtlechannels
+* 杰尼龟和他的训练师们群组：
+https://t.me/Squirtlegroup
+*
+*
+*
 # 大佬链接
 * 毒药推荐：https://www.duyaoss.com/category/default/
 * honven推荐：https://sites.google.com/view/honven/首页
