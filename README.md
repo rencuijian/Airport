@@ -42,11 +42,11 @@ https://t.me/Squirtlegroup
 * honven推荐备份：https://honven.xyz/
 * hwanz Githun推荐：https://github.com/hwanz/SS-SSR-V2ray
 * hwanz机场推荐：https://honven.netlify.app/
-* hwanz机场推荐备用：https://jichangtj.com/
+* 
 * SS机场-点击很多博文：https://v2ray.ssjichang.com/?m=1
 * AS/V2ray推荐：https://ssrv2ray.xyz/
 * 万事屋推荐：https://merlinblog.xyz/seetheworld.html
-* 性价比测速：https://duangks.com/
+* 
 * 墨少离：https://www.msl.la/archives/3/
 * VPN信息网：https://vpnxxw.com/
 * Askahh机场测速：http://www.askahh.com/
