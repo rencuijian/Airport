@@ -37,7 +37,7 @@ https://t.me/Squirtlegroup
 *
 *
 # 大佬链接
-* 毒药推荐：https://www.duyaoss.com/category/default/
+* 
 * honven推荐：https://sites.google.com/view/honven/首页
 * honven推荐备份：https://honven.xyz/
 * hwanz Githun推荐：https://github.com/hwanz/SS-SSR-V2ray
