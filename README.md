@@ -1,6 +1,5 @@
 # 机场博主推荐
-＊ 性价比机场测速
-https://duangks.com/
+＊ 性价比机场测速 https://duangks.com/
 
 # 频道群组推荐
 * 前女友们用过的机场频道：https://t.me/gebaopiCloud
