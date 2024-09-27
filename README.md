@@ -1,7 +1,7 @@
 # 机场博主推荐
-* 价比机场测速：https://duangks.com/
-* 频道：https://t.me/duang_speedtest
-* 机场测速：https://www.duyaoss.com/
+* 性价比机场测速:https://duangks.com/
+* TG频道:https://t.me/duang_speedtest
+* 毒药机场测速:https://www.duyaoss.com/
 * 
 * 
 * 
