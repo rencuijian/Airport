@@ -9,7 +9,6 @@ https://t.me/speedtest_duang
 * 404Askahh机场测速：https://www.askahh.com/
 * 404Askahh机场测速TG群组：
 https://t.me/askahh
-* 404Askahh机场测速TG频道：不当做聊天室
 * * *
 * 毒药机场测速：https://www.duyaoss.com/
 * * *
