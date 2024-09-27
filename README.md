@@ -1,8 +1,14 @@
 # 机场博主推荐
-＊ 性价比机场测速：https://duangks.com/
-＊ TG频道：https://t.me/duang_speedtest
-＊ 毒药机场测速：https://www.duyaoss.com/
-
+* 价比机场测速：https://duangks.com/
+* 频道：https://t.me/duang_speedtest
+* 机场测速：https://www.duyaoss.com/
+* 
+* 
+* 
+* 
+* 
+* 
+* 
 # 频道群组推荐
 * 前女友们用过的机场频道：https://t.me/gebaopiCloud
 * 前女友们新开的茶室群组：https://t.me/EXAIRPORTGROUP
