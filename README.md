@@ -45,7 +45,7 @@ https://t.me/Squirtlegroup
 * 
 * 机场和电报群推荐：https://v2ray.ssjichang.com/2022/01/telegram.html?m=1
 # 机场搭建教程
-* Alvin9999的github推荐：https://github.com/Alvin9999/new-pac
+* Alvin9999的机场搭建教程：https://github.com/Alvin9999/new-pac
 
 # Clash下载路径
 * 电脑版路径：https://uzbox.com/tech/quantumult-x.html?amp=1
