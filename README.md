@@ -12,7 +12,7 @@ https://t.me/speedtest_duang
 https://limbopro.com/
 * 毒奶机场情报群组：
 https://t.me/airportbbq
-题外群组普通资讯群组：* https://t.me/limboprossr
+* 题外群组普通资讯群组：https://t.me/limboprossr
 * * *
 * 
 * * *
