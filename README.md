@@ -17,7 +17,8 @@ https://t.me/airportbbq
 * honven机场测速和其他相关教程
 https://sites.google.com/view/honven/首页
 * * *
-* 机场推荐与评测
+* honven机场推荐与评测：https://honven.netlify.app/
+* honven机场推荐与评测备份
 https://jichangtuijian.com/
 * * *
 *
@@ -37,10 +38,7 @@ https://t.me/Squirtlegroup
 *
 # 大佬链接
 * 
-* honven推荐：https://sites.google.com/view/honven/首页
-* honven推荐备份：https://honven.xyz/
-* hwanz Githun推荐：https://github.com/hwanz/SS-SSR-V2ray
-* hwanz机场推荐：https://honven.netlify.app/
+
 * 
 * SS机场-点击很多博文：https://v2ray.ssjichang.com/?m=1
 * AS/V2ray推荐：https://ssrv2ray.xyz/
