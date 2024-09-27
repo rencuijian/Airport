@@ -27,8 +27,9 @@ https://jichangtuijian.com/
 * * *
 * SSRV2ray推荐：https://ssrv2ray.xyz/
 * * *
-*
+* [自用SS/SSR/V2ray机场体验](https://www.evernote.com/shard/s417/client/snv?noteGuid=7bf69b0c-2916-4038-b034-20ead5f0241f&noteKey=8ddb2c9bfd5ff4de4c40e04a1eb54b0f&sn=https://www.evernote.com/shard/s417/sh/7bf69b0c-2916-4038-b034-20ead5f0241f/8ddb2c9bfd5ff4de4c40e04a1eb54b0f&title=%E8%87%AA%E7%94%A8SS%2FSSR%E6%9C%BA%E5%9C%BA%E4%BD%93%E9%AA%8C%E5%8F%8A%E5%90%90%E6%A7%BD)
 * * *
+
 # 机场测速频道和群组
 * 前女友们用过的机场频道：https://t.me/gebaopiCloud
 * 前女友们新开的茶室群组：https://t.me/EXAIRPORTGROUP
@@ -40,13 +41,7 @@ https://t.me/Squirtlegroup
 *
 *
 *
-# 大佬链接
-* 
 
-* 
-* 
-* 
-* [自用SS/SSR/V2ray机场体验](https://www.evernote.com/shard/s417/client/snv?noteGuid=7bf69b0c-2916-4038-b034-20ead5f0241f&noteKey=8ddb2c9bfd5ff4de4c40e04a1eb54b0f&sn=https://www.evernote.com/shard/s417/sh/7bf69b0c-2916-4038-b034-20ead5f0241f/8ddb2c9bfd5ff4de4c40e04a1eb54b0f&title=%E8%87%AA%E7%94%A8SS%2FSSR%E6%9C%BA%E5%9C%BA%E4%BD%93%E9%AA%8C%E5%8F%8A%E5%90%90%E6%A7%BD)
 * 
 * 机场和电报群推荐：https://v2ray.ssjichang.com/2022/01/telegram.html?m=1
 # 机场搭建教程
